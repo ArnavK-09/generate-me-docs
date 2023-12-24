@@ -1,6 +1,6 @@
 {
   "name": "generate-me-docs",
-  "version": "0.0.69",
+  "version": "0.6.9",
   "description": "📖 Generate Documentation using Google Gemini",
   "main": "index.js",
   "bin": "./index.js",
