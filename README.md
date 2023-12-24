@@ -3,7 +3,7 @@
 **` generate-me-docs ` is a command-line tool that can be used to generate documentation for your projects from your project's source. The tool is available on NPm**
 
 > [!TIP]
-> - **Install Globally **
+> **Install Globally:**
 > ```bash
 > npm install -g generate-me-docs
 > ```
