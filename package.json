@@ -1,0 +1,30 @@
+{
+  "name": "generate-me-docs",
+  "version": "0.0.69",
+  "description": "📖 Generate Documentation using Google Gemini",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnavK-09/generate-me-docs.git"
+  },
+  "keywords": [
+    "cli",
+    "generate",
+    "google",
+    "gemini",
+    "docs"
+  ],
+  "author": "ArnavK-09",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArnavK-09/generate-me-docs/issues"
+  },
+  "homepage": "https://github.com/ArnavK-09/generate-me-docs#readme",
+  "devDependencies": {
+    "@google/generative-ai": "^0.1.3"
+  }
+}
