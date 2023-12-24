@@ -1,14 +1,15 @@
 # 📖 Generate-Me-Docs
 
-> **` generate-me-docs ` is a command-line tool that can be used to generate documentation for your projects from your project's source. The tool can also be installed globally using npm:**
+**` generate-me-docs ` is a command-line tool that can be used to generate documentation for your projects from your project's source. The tool is available on NPm**
 
-- Install Globally 
-```bash
-npm install -g generate-me-docs
-```
+> [!TIP]
+> - **Install Globally **
+> ```bash
+> npm install -g generate-me-docs
+> ```
 
 ## 🪴 Usage
-To use ` generate-me-docs , you must provide the name of the folder containing the source files and your Gemini API key. The tool will automatically generate a set of MARKDIWN files!.
+To use ` generate-me-docs `, you must provide the name of the folder containing the source files and your Gemini API key. The tool will automatically generate a set of MARKDIWN files!.
 
 ```bash
 npx generate-me-docs [folder] [apiKey] <extraRequests> 
