@@ -26,7 +26,7 @@ npx generate-me-docs [folder] [apiKey] <extraRequests>
 
 # 💯 Example
 ```diff
-+ npx generate-me-docs src apikeyxyz "Add Some Emojis Too"
++ npx generate-me-docs src <apikeyxyz> "Add Some Emojis Too"
 ```
 
 ---
